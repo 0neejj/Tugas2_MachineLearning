@@ -1,4 +1,5 @@
 Faiza Sabila -2108107010083
+
 Klasifikasi & Regresi menggunakan Support Vector Machine (SVM)
 1. Klasifikasi : https://www.kaggle.com/datasets/mrsimple07/obesity-prediction/data
 	Pada klasifikasi saya menggunakan data obesitas. Data ini memberikan informasi kategori dari obesitas. dataset ini terdapat 1000sample dengan 6 kolom atribut yaitu umur, jenis kelamin, tinggi badan, berat badan, BMI(Indeks Massa Tubuh), Tingkat aktivitas fisik dan 1 label dimana label akan terbagi kedalam 4 kelas(normal, underweight, overweight, obesitas).
